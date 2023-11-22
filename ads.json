@@ -1,1 +1,18 @@
-{}
+{
+    "teste": {
+        "projectName": "teste",
+        "description": "teste",
+        "type": "community",
+        "author": "lucas-cn",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/lucas-cn/openid-gluu",
+        "githubUri": "https://github.com/lucas-cn/openid-gluu",
+        "license": "apache-2.0",
+        "lastUpdated": "1700683173315",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
